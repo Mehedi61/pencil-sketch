@@ -1,5 +1,5 @@
 # pencil-sketch
-**Turn an image into a pencil sketch**
+**Objective**: Turn an image into a pencil sketch.
 
 ### Sample:  
 <p align="center">Original Image</p>
