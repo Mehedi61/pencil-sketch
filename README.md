@@ -1,5 +1,5 @@
 # pencil-sketch
-**Objective:** Turn an image into a pencil sketch.
+**Objective:** Turn an image into a pencil sketch.   
 **Dependencies:** Python3, NumPy, SciPy, Matplotlib, imageio.   
 
 ## Sample:  
