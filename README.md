@@ -3,6 +3,5 @@
 
 ### Sample:  
 <p align="center">
-  Original image
-  <img src="http://p.imgci.com/db/PICTURES/CMS/263500/263576.jpg">
+  ![original image]<img src="http://p.imgci.com/db/PICTURES/CMS/263500/263576.jpg">
 </p>
