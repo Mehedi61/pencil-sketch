@@ -13,5 +13,5 @@
 To run this project you have to [install jupyter-notebook](https://jupyter.readthedocs.io/en/latest/install.html).  
 Then execute the commands below.  
 ```  
-https://github.com/Mehedi61/pencil-sketch.git  
+git clone https://github.com/Mehedi61/pencil-sketch.git  
 ```
