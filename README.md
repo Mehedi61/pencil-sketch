@@ -24,5 +24,6 @@ cd pencil-sketch/
 jupyter-notebook pencil-sketch.ipynb    
 ```  
   
-**Note:** If you want to modify the project, then you have to install all the dependencies above.  
+**Note:** If you want to modify this project, then you have to install all the dependencies above.  
 That's it.
+
