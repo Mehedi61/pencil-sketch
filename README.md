@@ -14,4 +14,15 @@ To run this project you have to [install jupyter-notebook](https://jupyter.readt
 Then execute the commands below.  
 ```  
 git clone https://github.com/Mehedi61/pencil-sketch.git  
-```
+```  
+
+```  
+cd pencil-sketch/
+```  
+  
+```  
+jupyter-notebook pencil-sketch.ipynb    
+```  
+  
+**Note:** If you want to modify the project, then you have to install all the dependencies above.  
+That's it.
