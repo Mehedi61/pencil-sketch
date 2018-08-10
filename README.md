@@ -17,7 +17,7 @@ git clone https://github.com/Mehedi61/pencil-sketch.git
 ```  
 
 ```  
-cd pencil-sketch/
+cd pencil-sketch/pencil-sketch
 ```  
   
 ```  
