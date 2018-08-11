@@ -13,7 +13,7 @@
 To run this project you have to [install jupyter-notebook](https://jupyter.readthedocs.io/en/latest/install.html).  
 Then execute the commands below.  
 ```  
-git clone https://github.com/Mehedi61/pencil-sketch.git  
+git clone https://github.com/Mehedi61/pencil-sketch.git
 ```  
 
 ```  
@@ -21,7 +21,7 @@ cd pencil-sketch/pencil-sketch
 ```  
   
 ```  
-jupyter-notebook pencil-sketch.ipynb    
+jupyter-notebook pencil-sketch.ipynb
 ```  
   
 **Note:** If you want to modify this project, then you have to install all the dependencies above.  
